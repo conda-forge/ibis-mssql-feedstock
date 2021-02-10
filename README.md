@@ -5,11 +5,11 @@ Home: https://github.com/quansight/ibis-mssql
 
 Package license: Apache-2.0
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ibis-mssql-feedstock/blob/master/LICENSE.txt)
 
 Summary: Ibis backend for MSSQL
 
-
+Development: https://github.com/quansight/ibis-mssql
 
 Current build status
 ====================
